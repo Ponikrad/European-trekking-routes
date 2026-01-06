@@ -5,6 +5,7 @@
 Ten projekt to kompleksowa analiza 50 najbardziej ikonicznych tras trekkingowych w Europie. Celem było zbadanie korelacji między trudnością trasy, przewyższeniem (elevation gain) a ocenami użytkowników, aby zidentyfikować "najbardziej wymagające" oraz "najbardziej satysfakcjonujące" szlaki na kontynencie.
 
 ** Link do interaktywnego Dashboardu:** [Tableau Public - European Trekking Routes](https://public.tableau.com/views/Europeantrekkingroutes/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Dashboard Screenshot](https://github.com/Ponikrad/European-trekking-routes/blob/main/dashboard/screenshots/Dashboard%201.png)
 
 ## Tech Stack
 
