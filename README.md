@@ -27,7 +27,7 @@ Projekt wymagał zaawansowanego przygotowania danych, ponieważ pierwotne zbiory
 - **Top Regiony:** Alpy i Skandynawia dominują w rankingu najwyżej ocenianych szlaków (średni Rating > 4.8).
 - **Dostępność:** Analiza wykazała, że popularność szlaku często zależy bardziej od jego "ikoniczności" (np. Preikestolen) niż od poziomu trudności.
 
-## 📂 Project Structure
+## Project Structure
 
 - `/data` - zawiera pliki CSV.
 - `/dashboard` - screenshot Dashboardu.
