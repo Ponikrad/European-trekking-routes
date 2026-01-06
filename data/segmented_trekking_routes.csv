@@ -1,0 +1,51 @@
+route_name,country,region,distance_km,elevation_gain,difficulty,rating,popularity_score,effort_index,category
+Tour du Mont Blanc,France,Alps,170,10000,5,5.0,95,58.82,Thru-Hike
+GR20,France,Corsica,180,11000,5,4.8,88,61.11,Thru-Hike
+West Highland Way,Scotland,Highlands,154,3900,3,4.7,85,25.32,Thru-Hike
+Laugavegur Trail,Iceland,Highlands,55,1700,3,4.9,90,30.91,Multi-Day
+Alta Via 1,Italy,Dolomites,120,7200,4,4.7,82,60.0,Multi-Day
+Kungsleden,Sweden,Lapland,440,9000,3,4.6,75,20.45,Thru-Hike
+Camino de Santiago,Spain,Northern Spain,780,10000,3,4.8,100,12.82,Thru-Hike
+Trolltunga,Norway,Hardangerfjord,28,1100,4,4.9,92,39.29,Day Trip
+Preikestolen,Norway,Lysefjord,8,350,2,5.0,98,43.75,Day Trip
+Adlerweg,Austria,Tyrol,413,31000,4,4.5,70,75.06,Thru-Hike
+Walker's Haute Route,Switzerland,Alps,180,12000,5,4.8,80,66.67,Thru-Hike
+Fisherman's Trail,Portugal,Algarve,226,2000,3,4.7,78,8.85,Thru-Hike
+Mullerthal Trail,Luxembourg,Mullerthal,112,2500,2,4.6,65,22.32,Multi-Day
+Cinque Terre,Italy,Liguria,12,500,2,4.9,96,41.67,Day Trip
+Hardergrat,Switzerland,Bernese Oberland,24,3000,5,4.8,72,125.0,Day Trip
+Orla Perc,Poland,Tatra Mountains,5,1000,5,4.9,85,200.0,Day Trip
+High Tatras Traverse,Slovakia,Tatra Mountains,50,3500,4,4.8,78,70.0,Multi-Day
+Retezat Mountains Loop,Romania,Carpathians,40,2800,4,4.7,60,70.0,Multi-Day
+Musala Hike,Bulgaria,Rila,15,1200,3,4.5,72,80.0,Day Trip
+Olympus Summit,Greece,Mount Olympus,20,2100,4,4.8,88,105.0,Day Trip
+Triglav Ascent,Slovenia,Julian Alps,14,1800,4,4.9,84,128.57,Day Trip
+Durmitor Ring,Montenegro,Durmitor,45,2500,4,4.7,76,55.56,Multi-Day
+Peaks of the Balkans,Albania,Balkans,192,9500,4,4.8,74,49.48,Thru-Hike
+Eifelsteig,Germany,Eifel,313,8000,3,4.4,68,25.56,Thru-Hike
+Kerry Way,Ireland,County Kerry,214,5400,3,4.6,80,25.23,Thru-Hike
+Pembrokeshire Coast Path,Wales,Coast,299,8500,3,4.7,77,28.43,Thru-Hike
+South Downs Way,England,South England,160,4200,2,4.4,75,26.25,Thru-Hike
+Pennine Way,England,North England,431,11000,4,4.5,79,25.52,Thru-Hike
+GR10 Pyrenees,France,Pyrenees,866,48000,5,4.8,81,55.43,Thru-Hike
+Carros de Foc,Spain,Pyrenees,55,3300,4,4.7,65,60.0,Multi-Day
+Cami de Cavalls,Spain,Balearic Islands,185,3000,2,4.5,70,16.22,Thru-Hike
+Rota Vicentina,Portugal,Alentejo,230,2500,3,4.6,75,10.87,Thru-Hike
+Levada do Caldeirao Verde,Portugal,Madeira,13,100,2,4.9,94,7.69,Day Trip
+Pico del Teide,Spain,Canary Islands,18,1500,4,4.8,91,83.33,Day Trip
+Samaria Gorge,Greece,Crete,16,1200,3,4.7,93,75.0,Day Trip
+Vikos Gorge,Greece,Pindus,12,1000,3,4.7,82,83.33,Day Trip
+Bobotov Kuk,Montenegro,Durmitor,10,1100,4,4.8,74,110.0,Day Trip
+Seven Rila Lakes,Bulgaria,Rila,15,1000,2,4.8,86,66.67,Day Trip
+Slovenian Mountain Trail,Slovenia,Julian Alps,599,45000,5,4.6,68,75.13,Thru-Hike
+Via Alpina (Green),Switzerland,Alps,390,24000,4,4.7,77,61.54,Thru-Hike
+Tour de Monte Rosa,Italy,Alps,162,13000,5,4.8,79,80.25,Thru-Hike
+Bernese Overland Trek,Switzerland,Alps,100,8000,4,4.9,83,80.0,Multi-Day
+Stubai High Trail,Austria,Tyrol,80,6000,4,4.8,75,75.0,Multi-Day
+Eagle Walk,Austria,Tyrol,413,31000,4,4.5,70,75.06,Thru-Hike
+Berliner Hohenweg,Austria,Zillertal,85,6500,4,4.7,72,76.47,Multi-Day
+GR5 (Alpine section),France,Alps,660,30000,5,4.8,78,45.45,Thru-Hike
+GR11 (Pyrenees),Spain,Pyrenees,820,44000,5,4.8,76,53.66,Thru-Hike
+Glowny Szlak Beskidzki,Poland,Beskidy,496,14400,4,4.7,82,29.03,Thru-Hike
+Tatranska Magistrala,Slovakia,Tatra Mountains,46,2800,3,4.8,80,60.87,Multi-Day
+Ruta Cares,Spain,Picos de Europa,12,400,2,4.9,90,33.33,Day Trip
